@@ -6,3 +6,6 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
+
+
+Trying out the API for Sublime Text plugins. Very rough draft.
